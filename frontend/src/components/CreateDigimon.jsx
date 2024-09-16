@@ -19,7 +19,7 @@ const CreateDigimon = () => {
     }
   return (
     <div>
-        <h2>Creat a new employee</h2>
+        <h2>Create a new Digimon</h2>
         <form onSubmit={store}>
             <div className='mb-3'>
                 <label className='form-label'>Name</label>
